@@ -1,0 +1,78 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+div{
+    width:100%;
+}
+.background{
+    background-image: url(construction-background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 490px;
+    width:100vw;
+}
+header{
+    width:100vw;
+    height:98px;
+    /* background-color: black; */
+    background: linear-gradient(180deg,black 15%,rgb(78, 75, 75) 60%);
+     box-shadow:  5px 10px;
+
+}
+nav{
+     margin:auto;
+   
+}
+ p{
+     /* position: relative; */
+    display: inline-block;
+    text-decoration: none;
+    margin: 40px 85px;
+    color: white;
+ }
+.home{
+    display: inline-block;
+    background-color: white;
+    color: black;
+    width:80px;
+    padding:10px;
+    text-align: center;
+     
+}
+.subimage{
+    width:28.3%;
+    height:420px;
+    display: inline-block;
+    margin: 35px;
+}
+.image1{
+    background-image: url(https://static7.depositphotos.com/1010826/675/v/450/depositphotos_6751521-stock-illustration-tower-cranes.jpg);
+    background-size: cover;
+}
+.image2{
+    background-image: url(https://wallpapers.com/images/featured/civil-engineering-pa6hvqgpaqfw6mgb.jpg);
+    background-size: cover;
+}
+.image3{
+    background-image: url(https://c1.wallpaperflare.com/preview/734/797/226/construction-site-building-concrete.jpg);
+    background-size: cover;
+}
+.image4{
+    width:43%;
+    height:420px;
+    background-image: url(https://media.istockphoto.com/id/1202296779/photo/black-and-white-photo-structure-of-steel-for-building-construction.jpg?s=1024x1024&w=is&k=20&c=zB6oytRiAmzlr-gQ1Qj0GTC7YOjo6fd5jeiW8Iuz78M=);
+    background-size: cover;
+}
+article{
+    display: inline-block;
+    width: 42%;
+    height: 200px;
+    color: white;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.footer{
+    background-color: black;
+    height: 480px;
+}
